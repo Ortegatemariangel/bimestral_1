@@ -4,6 +4,8 @@ Este es un juego simple desarrollado con Python y Pygame, en el que el jugador o
 
 ## Explicación del Código
 
+## Processing
+
 ### Primero importamos los modulos, que son :
 
 - Se importa pygame para la creación del juego.
@@ -152,4 +154,6 @@ Se establecen las coordenadas y dimensiones del cohete.
     PANTALLA.blit(IMG_COHETE, (XX_COHETE, YY_COHETE))
     pygame.display.update()
 
-  
+# Diseño
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+# Construccion
